@@ -4,7 +4,7 @@ import UseEffect from './UseState'
 const App=()=>{
   return(
     <div>
-     { /*<UseEffect/>*/}
+     { <UseEffect/>}
     </div>
   )
 }
